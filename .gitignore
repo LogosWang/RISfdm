@@ -1,0 +1,7 @@
+# Build outputs
+*.o
+solver
+
+# Simulation output
+output_*.csv
+output_*.dat
